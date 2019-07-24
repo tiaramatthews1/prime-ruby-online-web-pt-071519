@@ -1,4 +1,5 @@
 require 'prime'
 
-def is_prime(num)
+def prime?(num)
   
+end
