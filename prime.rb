@@ -1,5 +1,5 @@
 require 'prime'
 
-Prime.each(27) do |prime|
+Prime.each(2) do |prime|
   p prime
 end
