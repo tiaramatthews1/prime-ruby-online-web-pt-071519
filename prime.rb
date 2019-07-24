@@ -1,5 +1,6 @@
 require 'prime'
 
-def prime?(num)
-  prime.prime?(2)
+def is_prime(num)
+  Prime.prime?(2)
+  Prime.prime?(-1)
 end
