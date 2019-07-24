@@ -1,2 +1,3 @@
 require 'prime'
 
+Prime.prime
