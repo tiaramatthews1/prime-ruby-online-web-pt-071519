@@ -1,6 +1,6 @@
 require 'prime'
 
 def prime?(num)
- Prime.each() do |prime|
+ if num => 
   p prime
 end
