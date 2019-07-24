@@ -1,4 +1,5 @@
 require 'prime'
 def prime?(num)
- 
- end
+ Prime.each() do |prime|
+  p prime
+end
